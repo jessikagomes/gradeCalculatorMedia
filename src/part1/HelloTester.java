@@ -25,6 +25,5 @@ public class HelloTester {
         //4. Print output
         System.out.println("Your Total Grade is: " + studentGrade);
         System.out.println("Your percentage is: " + percentage);
-
     }
 }
